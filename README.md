@@ -8,7 +8,6 @@ Projeto criado, com auxílio do professor [Leonardo Rocha](https://github.com/le
 
 - HTML5
 - CSS3
-- Visual Studio Code
 - Git
 
 ## Funcionalidades
